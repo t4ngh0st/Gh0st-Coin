@@ -6,7 +6,7 @@
 
 ## 📖 Ringkasan
 
-**Gh0st-Coin** adalah proyek *cryptocurrency* berbasis komunitas yang terinspirasi dari Dogecoin, namun dibangun dengan filosofi berbeda:  
+**Gh0st-Coin** adalah proyek *cryptocurrency* berbasis komunitas yang terinspirasi dari Dogecoin, namun dibangun dengan filosofi berbeda(Progress):  
 menjadi **mata uang komunitas** yang **terintegrasi langsung dengan sistem operasi (T4n OS)** dan **custom shell (pr0gshell)**.
 
 Dengan pendekatan ini, Gh0st-Coin bukan sekadar *meme coin* untuk spekulasi, melainkan sebuah **alat transaksi ringan, donasi, dan tipping** dalam ekosistem T4n.
@@ -16,14 +16,14 @@ Dengan pendekatan ini, Gh0st-Coin bukan sekadar *meme coin* untuk spekulasi, mel
 ## ✨ Fitur Utama
 
 - 🎭 **Meme Coin + Identitas Unik** → karakter Gh0sT4n sebagai simbol kebebasan & komunitas.  
-- 🖥️ **Integrasi OS (T4n OS)** → GUI wallet bawaan, donasi developer langsung dari desktop.  
-- 💻 **Integrasi Shell (pr0gshell)** → wallet CLI sederhana dengan command bawaan.  
+- 🖥️ **Integrasi OS (T4n OS-Progress)** → GUI wallet bawaan, donasi developer langsung dari desktop.  
+- 💻 **Integrasi Shell (pr0gshell-Progress)** → wallet CLI sederhana dengan command bawaan.  
 - 🔒 **Transparan** → kode open-source, audit-friendly, GPL-3.0.  
 - 🌐 **Ekosistem Nyata** → terhubung dengan T4n-Manager & project lain di T4n.  
 
 ---
 
-## 🔗 Hubungan dengan Ekosistem T4n
+## 🔗 Hubungan dengan Ekosistem T4n(Progress)
 
 ### T4n OS  
 - Wallet GUI tersedia default di desktop.  
@@ -49,7 +49,7 @@ Dengan pendekatan ini, Gh0st-Coin bukan sekadar *meme coin* untuk spekulasi, mel
 
 ---
 
-## 📊 Tokenomics (Draft)
+## 📊 Tokenomics (Draft) (Plan)
 
 - **Total Supply**: 1.000.000.000 Gh0st  
 - **Distribusi**:  
